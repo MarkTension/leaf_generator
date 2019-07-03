@@ -1,0 +1,19 @@
+{
+  "name": "leaf_generator",
+  "version": "1.0.0",
+  "description": "paperjs webpack app for leaf generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTension/leaf_generator.git"
+  },
+  "author": "MarkTension",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkTension/leaf_generator/issues"
+  },
+  "homepage": "https://github.com/MarkTension/leaf_generator#readme"
+}
